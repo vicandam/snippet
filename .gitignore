@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea/dataSources.local.xml
+.idea/dataSources/8f3ee93b-4a63-4646-82c7-fc547d317dfe.xml
+.idea/dataSources/8f3ee93b-4a63-4646-82c7-fc547d317dfe/storage_v2/_src_/schema/information_schema.FNRwLQ.meta
